@@ -21,7 +21,8 @@ A free, open-source IPTV dashboard for streaming live TV channels, browsing comm
 
 ## Screenshots
 
-> Add screenshots here after building the project.
+> <img width="1402" height="765" alt="image" src="https://github.com/user-attachments/assets/58f28123-6b33-4fa6-a90e-616109f29385" />
+
 
 ---
 
@@ -58,7 +59,7 @@ A free, open-source IPTV dashboard for streaming live TV channels, browsing comm
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/iptv-dashboard.git
+git clone https://github.com/TechKnoWEB/iptv-dashboard.git
 cd iptv-dashboard
 
 # Install dependencies
