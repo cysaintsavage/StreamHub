@@ -185,16 +185,7 @@ export default function LiveSports() {
               Match schedules &amp; live stream embeds
             </p>
           </div>
-          <span
-            className={`sm:ml-auto flex items-center gap-1.5 px-2.5 py-1 text-[10px] font-semibold rounded-full ${
-              isDark
-                ? "bg-sport-green/15 text-sport-green border border-sport-green/20"
-                : "bg-emerald-50 text-emerald-700 border border-emerald-200"
-            }`}
-          >
-            <span className="w-1.5 h-1.5 rounded-full bg-sport-green animate-pulse" />
-            FREE API
-          </span>
+          
         </div>
       </div>
 
