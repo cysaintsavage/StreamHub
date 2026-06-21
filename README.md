@@ -21,7 +21,8 @@ A free, open-source IPTV dashboard for streaming live TV channels, browsing comm
 ---
 
 ## Screenshots
-<img width="1435" height="754" alt="image" src="https://github.com/user-attachments/assets/4dc1f5d2-c602-4e53-bc78-1596cf5217bb" />
+<img width="1433" height="760" alt="image" src="https://github.com/user-attachments/assets/696a8eb6-b947-4d3d-824c-7f86e07430eb" />
+<img width="1433" height="760" alt="image" src="https://github.com/user-attachments/assets/bd2ff40f-b4da-4a82-b738-2d04d5a1cf93" />
 
 
 ---
